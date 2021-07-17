@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/question-answer-app/static/css/main.6dc9fde3.chunk.css",
+    "main.js": "/question-answer-app/static/js/main.13101835.chunk.js",
+    "main.js.map": "/question-answer-app/static/js/main.13101835.chunk.js.map",
+    "runtime-main.js": "/question-answer-app/static/js/runtime-main.0bdbf1f8.js",
+    "runtime-main.js.map": "/question-answer-app/static/js/runtime-main.0bdbf1f8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/question-answer-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.95ab4c44.chunk.js": "/question-answer-app/static/js/2.95ab4c44.chunk.js",
+    "static/js/2.95ab4c44.chunk.js.map": "/question-answer-app/static/js/2.95ab4c44.chunk.js.map",
+    "static/js/3.d4b6d7e7.chunk.js": "/question-answer-app/static/js/3.d4b6d7e7.chunk.js",
+    "static/js/3.d4b6d7e7.chunk.js.map": "/question-answer-app/static/js/3.d4b6d7e7.chunk.js.map",
+    "index.html": "/question-answer-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/question-answer-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dc9fde3.chunk.css.map": "/question-answer-app/static/css/main.6dc9fde3.chunk.css.map",
+    "static/js/2.95ab4c44.chunk.js.LICENSE.txt": "/question-answer-app/static/js/2.95ab4c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bdbf1f8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.95ab4c44.chunk.js",
+    "static/css/main.6dc9fde3.chunk.css",
+    "static/js/main.13101835.chunk.js"
+  ]
+}
